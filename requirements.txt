@@ -1,1 +1,1 @@
-Markdown
+pelican[markdown]
