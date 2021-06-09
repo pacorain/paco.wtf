@@ -25,3 +25,8 @@ jobs:
     - name: Build the site
       run: |
         make html
+    - name: Publish!
+      uses: JamesIves/github-pages-deploy-action@3.6.2
+      with: 
+        branch: gh-pages
+        folder: _site
