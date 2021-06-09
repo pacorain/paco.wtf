@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>paco, wtf - Meta</title><link href="/" rel="alternate"></link><link href="/feeds/meta.atom.xml" rel="self"></link><id>/</id><updated>2021-06-08T23:24:00-04:00</updated><entry><title>Hello, world</title><link href="/hello-world.html" rel="alternate"></link><published>2021-06-08T23:24:00-04:00</published><updated>2021-06-08T23:24:00-04:00</updated><author><name>Austin "Paco" Rainwater</name></author><id>tag:None,2021-06-08:/hello-world.html</id><summary type="html">&lt;p&gt;Hi, I'm Austin. This is my blog. This post is about it.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hi, I'm Austin. &lt;/p&gt;
+&lt;p&gt;I recognized a long time ago, however, that Austin was a common name and I would have trouble finding domain names, so I decided to go by Paco.&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;This is my blog in which I spew nonsense. My goal here is to leave you saying things like, “Why would you publish something like this?”, “Your takes are bad and you should feel bad”, and “Paco, what the fuck&lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="#fn:2"&gt;2&lt;/a&gt;&lt;/sup&gt;”&lt;/p&gt;
+&lt;p&gt;Part of the reason for this goal is because I am emotionally damaged and need to set low bars for myself. That way, if I write something that actually is meaningful to people, I’m doing better than I expected. The other reason is I am emotionally damaged and enjoy producing content that is psychologically disorienting.&lt;/p&gt;
+&lt;p&gt;I’m a new parent, I work in technology, I love smart homes, and I have lots of trauma that I’m working through; all of which effects lots of opinions on lots of things. I was also diagnosed with autism&lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt; at a young age and then didn’t really start processing it until college. I’ve always enjoyed writing, especially when processing, and people have always said they enjoy my writing&lt;sup id="fnref:4"&gt;&lt;a class="footnote-ref" href="#fn:4"&gt;4&lt;/a&gt;&lt;/sup&gt;. So I figured, &lt;em&gt;why not set up a place where I can dump all my thoughts?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Some of the things I’m hoping to write about include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/category/privacy.html"&gt;Technology and Privacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/category/home-automation.html"&gt;Home/Personal Automation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/category/mental-health.html"&gt;Mental health&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/category/religion.html"&gt;Religion&lt;/a&gt;, &lt;a href="/tag/deconstruction.html"&gt;deconstruction&lt;/a&gt;, and &lt;a href="/tag/spiritual-trauma.html"&gt;spiritual trauma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="/category/parenting.html"&gt;Parenting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Random shit that pops into my head&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here’s the other thing: I have no idea &lt;em&gt;what&lt;/em&gt; the fuck I’m talking about. I might attempt to do some research for some of my posts, but I’m pretty sure most of them will just be me dumping my thoughts about various things&lt;sup id="fnref:5"&gt;&lt;a class="footnote-ref" href="#fn:5"&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Anyway, that's this website in a nutshell. Hope to add tons of stuff soon. &lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;Yep, this is one of those things where I tell a different story every time someone asks where the name "Paco" came from.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;Hence the domain name and blog title.&lt;/p&gt;
+&lt;p&gt;Also, my general mode of operation is to mess with the status quo and do everything in new and unnecessary ways, so the domain name &lt;code&gt;paco.wtf&lt;/code&gt; seems to fit my brand.&amp;#160;&lt;a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:3"&gt;
+&lt;p&gt;To be more precise, I was diagnosed with &lt;a href="https://en.wikipedia.org/wiki/Asperger_syndrome"&gt;Aspberger’s Syndrome&lt;/a&gt;, or “high functioning” autism. This uninspired name was coined after Hans Asperger, who was a nazi eugenicist whose work helped to separate neurodivergent people based on whether they could be any use to society. This will probably be its own blog post, but I don’t use this full diagnosis to refer to myself.&amp;#160;&lt;a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:4"&gt;
+&lt;p&gt;citation needed&amp;#160;&lt;a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:5"&gt;
+&lt;p&gt;I will also try not to abuse footnotes as much, except I will probably continue my footnote-based patterns of abuse.&amp;#160;&lt;a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content><category term="Meta"></category><category term="wtf"></category><category term="featured"></category></entry></feed>
