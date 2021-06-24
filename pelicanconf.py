@@ -3,8 +3,9 @@
 
 AUTHOR = 'Austin "Paco" Rainwater'
 SITENAME = 'paco, wtf'
-SITEURL = ''
+SITEURL = 'https://paco.wtf'
 THEME = 'themes/basic'
+DEFAULT_DATE = 'fs'
 
 PATH = 'content'
 
