@@ -1,5 +1,6 @@
 Title: Open Letter to the Family Member Asking Me to Let Go
 Category: Mental Health
+Date: 2021-06-23 10:14 PM
 Tags: family, abuse
 
 I wrote this in my journal a little while ago.
@@ -7,6 +8,8 @@ I wrote this in my journal a little while ago.
 All of this family stuff has been weighing on me for a while. I’m sharing this because that’s one way I process trauma…and maybe it can help other people process similar trauma. 
 
 Obviously, I’ve removed/changed names and other identifying details, so this isn’t just straight copied out of my journal. But it’s pretty close.
+
+If nothing else, I hope the sheer length of it says something about how difficult this part of my journey has been.
 
 ---
 
