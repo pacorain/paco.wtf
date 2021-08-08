@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 15pt 75pt;
+	font-family: monospace;
+	line-height: 1.2;
+}
+
+.category-mental-health {
+	background-color: #EDE8FF;
+}
+
+.navHeader {
+	color: gray;
+	margin-bottom: 20pt;
+}
+
+.navHeader .subtitle {
+	margin-top: 0;
+}
+
+.navHeader h1 {
+	margin-bottom: 0;
+}
+
+.navHeader a {
+	color: gray
+}
+
+.categoryListing a {
+	border: thin solid grey;
+	padding: 2pt;
+}
+
+.postMetadata {
+	margin: 20pt 16pt 18pt 16pt;
+}
+
+.postMetadata p {
+	margin: 0
+}
+
+.tags {
+	margin: 4pt;
+	padding: 0pt 0pt 8pt 0pt;
+	line-height: 2.5;
+}
+
+.tags a {
+	color: #444444;
+	background-color: #e0e0e0;
+	padding: 4pt;
+	margin: 4pt 0pt 0pt 3pt;
+	border-radius: 7pt;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.postTitle a {
+	color: currentColor;
+}
+
+.article, .postListing {
+	border: 0.5pt solid black;
+	border-radius: 15pt;
+	padding: 5pt 10pt;
+}
+
+.article {
+	background-color: white;
+}
+
+.postListing {
+	margin-bottom: 15pt;
+}
+
+@media (max-width: 600pt){
+	body {
+		margin: 15pt 25pt;
+	}
+}
+
+@media (max-width: 300pt) {
+	body {
+		background-color: white;
+		margin: 5pt;
+	}
+	
+	.article {
+		border: none;
+		padding: none;
+		border-radius: 0
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		color: #C7C2BF;
+		background-color: #312f2f;
+	}
+	
+	a {
+		color: #6487C9;
+	}
+	
+	.category-mental-health {
+		background-color: #3C384A;
+	}
+	
+	.article {
+		background-color: #312f2f;
+	}
+
+	.article, .postListing {
+		border-color: #C7C2BF;
+	}
+	
+		@media (max-width: 300pt) {
+		body {
+			background-color: #312f2f;
+		}
+	}
+}
