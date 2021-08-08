@@ -4,6 +4,7 @@
 AUTHOR = 'Austin "Paco" Rainwater'
 SITENAME = 'paco, wtf'
 SITEURL = 'https://paco.wtf'
+PLAUSIBLE_DOMAIN = 'paco.wtf'
 THEME = 'themes/wtf'
 
 PATH = 'content'

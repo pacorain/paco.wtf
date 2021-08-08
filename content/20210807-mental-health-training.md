@@ -1,6 +1,6 @@
 Title: My Addendum to the Mandatory Mental Health Training at Work
 Category: Mental Health
-Date: 2021-06-23 10:22 PM
+Date: 2021-08-08 5:08:00 PM
 Tags: mental health at work
 Summary:
     I recently took a mental health training at work. It was disappointing, but there is one crucial point that I think it failed to address: no matter who you are or what role you play in the company, **you matter**. 

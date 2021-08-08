@@ -34,6 +34,9 @@
     <meta property="og:title" content="{{ SITENAME }} Homepage" />
     <meta property="og:sitename" content="{{ SITENAME }}" />        
     {% endblock socialmeta %}
+    {% if PLAUSIBLE_DOMAIN %}
+    <script defer data-domain="{{ PLAUSIBLE_DOMAIN }}" src="https://plausible.io/js/plausible.js"></script>
+    {% endif %}
     {% block head_extra %}{% endblock head_extra %}
     {% endblock head %}
 </head>
