@@ -1,10 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+from datetime import date
+
 AUTHOR = 'Austin "Paco" Rainwater'
 SITENAME = 'paco, wtf'
 SITEURL = 'https://paco.wtf'
-PLAUSIBLE_DOMAIN = 'paco.wtf'
+CLICKY_CODE = 101328548
+BUILD_DATE = date.today()
 THEME = 'themes/wtf'
 
 PATH = 'content'
