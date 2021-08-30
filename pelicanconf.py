@@ -5,8 +5,11 @@ from datetime import date
 
 AUTHOR = 'Austin "Paco" Rainwater'
 SITENAME = 'paco, wtf'
-SITEURL = 'https://paco.wtf'
-CLICKY_CODE = 101328548
+
+SITEURL = 'http://localhost:8000'
+RELATIVE_URLS = True
+
+CLICKY_CODE = 0
 BUILD_DATE = date.today()
 THEME = 'themes/wtf'
 
