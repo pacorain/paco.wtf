@@ -8,6 +8,8 @@ SITENAME = 'paco, wtf'
 SITEURL = 'https://paco.wtf'
 CLICKY_CODE = 101328548
 BUILD_DATE = date.today()
+ARTICLE_URL = "{slug}"
+ARTICLE_SAVE_AS = "{slug}"
 THEME = 'themes/wtf'
 
 PATH = 'content'
