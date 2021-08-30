@@ -8,7 +8,7 @@
     <link href="https://paco.wtf/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="paco, wtf Full Atom Feed" />
     <link href="https://paco.wtf/feeds/meta.atom.xml" type="application/atom+xml" rel="alternate" title="paco, wtf Categories Atom Feed" />
     <meta property="og:title" content="Hello, world" />
-    <meta property="og:url" content="https://paco.wtf/hello-world.html" />
+    <meta property="og:url" content="https://paco.wtf/hello-world" />
     <meta property="og:sitename" content="paco, wtf" />
     <meta property="og:type" content="article" />
     <meta property="og:article:published_time" content="2021-06-08T23:24:00-04:00" />
@@ -25,7 +25,7 @@
     <h1><a href="https://paco.wtf/">paco, wtf</a></h1>
 </div>
 <div class="article">
-    <h1 class="postTitle"><a href="https://paco.wtf/hello-world.html">Hello, world</a></h1>
+    <h1 class="postTitle"><a href="https://paco.wtf/hello-world">Hello, world</a></h1>
     <div class="postMetadata">
           <p class="date" title="2021-06-08T23:24:00-04:00">Tue 08 June 2021</p>
           <p class="category">Category: <a href="https://paco.wtf/category/meta.html">Meta</a></p>
