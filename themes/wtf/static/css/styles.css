@@ -1,10 +1,20 @@
 @charset "UTF-8";
 /* CSS Document */
 
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;500;600;700;900&display=swap');
+
+
 body {
 	margin: 15pt 75pt;
-	font-family: monospace;
-	line-height: 1.2;
+	font-family: 'Inconsolata', monospace;
+	font-weight: 500;
+	font-size: large;
+	line-height: 1.3;
+}
+
+.wrapper {
+	margin: 0pt auto;
+	max-width: 1080pt;
 }
 
 .category-mental-health {
@@ -35,6 +45,7 @@ body {
 
 .postMetadata {
 	margin: 20pt 16pt 18pt 16pt;
+	font-weight: 300;
 }
 
 .postMetadata p {
@@ -70,7 +81,7 @@ a:hover {
 .article, .postListing {
 	border: 0.5pt solid black;
 	border-radius: 15pt;
-	padding: 5pt 10pt;
+	padding: 5pt 20pt;
 }
 
 .article {
@@ -104,6 +115,8 @@ a:hover {
 	body {
 		color: #C7C2BF;
 		background-color: #312f2f;
+	@import url(
+		'https: //fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 	}
 	
 	a {
