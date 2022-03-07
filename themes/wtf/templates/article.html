@@ -21,7 +21,7 @@
 {% endblock socialmeta %}
 
 {% block content %}
-<div class="article">
+<div class="article category-{{ article.category.slug }}">
     <h1 class="postTitle"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
     <div class="postMetadata">
           <p class="date" title="{{ article.date.isoformat() }}">{{ article.locale_date }}</p>

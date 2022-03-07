@@ -17,9 +17,7 @@ body {
 	max-width: 1080pt;
 }
 
-.category-mental-health {
-	background-color: #EDE8FF;
-}
+
 
 .navHeader {
 	color: gray;
@@ -88,8 +86,27 @@ a:hover {
 	background-color: white;
 }
 
+.category-mental-health {
+	background-color: #EDE8FF;
+}
+
+.category-smart-home {
+	background-color: #e5f6fd;
+}
+
 .postListing {
 	margin-bottom: 15pt;
+}
+
+img {
+	max-width: 100%;
+}
+
+td {
+	background-color: rgba(255, 255, 255, 0.5);
+	margin: 10pt;
+	text-align: center;
+	padding: 5pt;
 }
 
 @media (max-width: 600pt){
@@ -123,10 +140,6 @@ a:hover {
 		color: #6487C9;
 	}
 	
-	.category-mental-health {
-		background-color: #3C384A;
-	}
-	
 	.article {
 		background-color: #312f2f;
 	}
@@ -134,10 +147,22 @@ a:hover {
 	.article, .postListing {
 		border-color: #C7C2BF;
 	}
+
+	.category-mental-health {
+		background-color: #3C384A;
+	}
+
+	.category-smart-home {
+		background-color: #282f33;
+	}
 	
 		@media (max-width: 300pt) {
 		body {
 			background-color: #312f2f;
 		}
+	}
+
+	td {
+		background-color: rgba(1, 1, 1, 0.5);
 	}
 }

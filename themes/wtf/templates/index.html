@@ -3,14 +3,14 @@
     {{ super() }}
     <p class="categoryListing">Categories: 
         {% for category, _ in categories %}
-        <a href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a>
+        <a class="category-{{ category.slug }}" href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a>
         {% endfor %}
     </p>
 {% endblock sitenav %}
 {% block content %}
 <h2>All articles</h2>
 {% for article in articles_page.object_list %}
-    <div class="postListing"><!-- TODO: Include category with no space -->
+    <div class="postListing category-{{ article.category.slug }}"><!-- TODO: Include category with no space -->
         <h2 class="postTitle"><a href="{{ SITEURL }}/{{ article.url }}"  rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
         <div class="postMetadata">
 			<p class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} </p>

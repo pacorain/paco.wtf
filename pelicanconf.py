@@ -12,6 +12,7 @@ RELATIVE_URLS = True
 CLICKY_CODE = 0
 BUILD_DATE = date.today()
 THEME = 'themes/wtf'
+DEFAULT_DATE = 'fs'
 
 PATH = 'content'
 
