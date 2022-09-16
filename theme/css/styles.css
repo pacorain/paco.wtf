@@ -90,6 +90,10 @@ a:hover {
 	background-color: #EDE8FF;
 }
 
+.category-religion {
+	background-color: rgba(255, 142, 142, 0.1);
+}
+
 .category-smart-home {
 	background-color: #e5f6fd;
 }
