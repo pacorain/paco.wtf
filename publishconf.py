@@ -23,6 +23,7 @@ DELETE_OUTPUT_DIRECTORY = True
 CLICKY_CODE = 101328548
 BUILD_DATE = date.today()
 THEME = 'themes/wtf'
+DEFAULT_DATE = 'fs'
 
 PATH = 'content'
 
